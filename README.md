@@ -81,7 +81,7 @@ Projeye bir yıldız vermeyi unutmayın! Tekrar teşekkürler!
 ## Lisans
 
 MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-*(Henüz yapmadıysanız projenize bir LİSANS dosyası eklemek isteyebilirsiniz)*
+*
 
 Bu proje hakkında herhangi bir sorunuz varsa, lütfen [brky06](https://github.com/brky06) ile iletişime geçin.
 
